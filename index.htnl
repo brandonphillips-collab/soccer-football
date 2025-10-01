@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Day #1 Portfolio | Brandon and Jaden </title>
+</head>
+
+<body>
+
+    <div id="background">
+        <div class="container">
+            <div class="row mb">
+                <div class="column">
+                    <a href="https://www.canva.com/design/DAG0XTvlzOc/Zl9xeYRViyDJAUKi1EBTqA/edit?utm_content=DAG0XTvlzOc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" class="logo">F</a>
+                    <a href="https://www.espn.com/soccer/" class="logo">S</a>
+                    <h1 class="header">Portfolio</h1>
+                    <p1> </p1>
+                    <h2>Github</h2>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="one-half column">
+                    <div class="links-list">
+                        <h3 style="color:rgb(2, 0, 131);"
+                        >Highlights</h3>
+                        <ul>
+                            <li>
+                                <a target="_blank" href="https://www.youtube.com/watch?v=kqphejRKaU0">Messi Highlights</a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="https://www.youtube.com/watch?v=mmeLCAP74KA">Ronaldo Highlights</a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="https://www.youtube.com/watch?v=NNYe4DTWGUk&t=94s">Neymar Highlights</a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="https://www.youtube.com/watch?v=xH3HtECybuk">Jaxson Smith</a>
+                            </li>
+                        
+                        
+ 
+                            <li>
+                                <a target="_blank" href="https://www.youtube.com/watch?v=5uBL7M3_5xk">Lamar Jackson</a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="https://www.youtube.com/watch?v=8TVyeKi0XRg">Josh Allen</a>
+                    
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="one-half column">
+                    <div class="links-list">
+                        <h4 style="color:rgb(2, 0, 131);">
+                        Jerseys</h4>
+                        <ul>
+                            <li>
+                                <a href="https://completekitz.shop" target="_blank">CompleteKitz
+                                    
+                            </li>
+                            <li>
+                                <a href="https://www.fanatics.com/" target="_blank"> Fanatics 
+                                    
+                            </li>
+                            <li>
+                                <a href="https://completekitz.shop/products/Premier-League-c164817753" target="_blank"> Premier League Jerseys
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://completekitz.shop/products/Serie-A-c164817761" target="_blank">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://completekitz.shop/products/MLS-c165135293" target="_blank">La Liga Jerseys
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://completekitz.shop/products/Saudi-Pro-League-c165125197" target="_blank">
+                    
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://completekitz.shop/products/Euro-2024-c165422524" target="_blank">
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+
+
+        </div>
+
+        <div class="container">
+            <div class="footer">
+                <p>
+                    Developed By
+                    <a href="Brandon and Jaden "></a> Brandon and Jaden
+                    
+                </p>
+            </div>
+        </div>
+
+    </div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
+    <script src="index.js"></script>
+</body>
+
+</html>
+
